@@ -21,4 +21,9 @@ nav ul{
 .border-color{
     border-style: ridge;
     border-width: 5px;
+    margin: 50px;
+}
+
+button{
+    color: blue;
 }
